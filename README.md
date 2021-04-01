@@ -1,6 +1,6 @@
 # CRISPR_Cas9_classification
 
-These are a group of classifiers that classify the average fold change in Crisper-cas9 dataset into four type of classes, where each class represent a quartile of the average fold change range. These models include:
+These are machine learning classifiers that classify the average fold change in Crisper-cas9 dataset into four type of classes, where each class represent a quartile of the average fold change range. These models include:
 
 Support vector machine (SVR)
 
